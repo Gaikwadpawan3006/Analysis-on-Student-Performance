@@ -1,0 +1,2 @@
+# Analysis-on-Student-Performance
+To identify students with educational skills and develop predictive models to predict ‘students  performance, and to help identify students’ final overall Performance of the Students’. The scope of this study is limited to the study of progress in learning. The analysis of student  performance consists of two functions: a) Student academic Skills such as Marks, Participation in Activities etc. b) Predict Analysis of the student performance
